@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">upeu</string>
+    <string name="nombre_titulo">Access to the Academic System</string>
+    <string name="usuario">Usser:</string>
+    <string name="clave">Password:</string>
+    <string name="bnt_ingresar">Sing In</string>
+</resources>
